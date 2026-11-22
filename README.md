@@ -1,33 +1,20 @@
-# Forest Fire Risk Detection
+# Project Report and Documentation
 
-A Leaving Certificate Computer Science project exploring how environmental data can be used to identify potential forest fire risks using a BBC micro:bit and Python.
+This folder contains supporting documentation and visual materials for the Forest Fire Risk Detection project.
 
-## Project Overview
+## Contents
 
-This project investigates how environmental conditions, such as temperature and light levels, can be monitored to help identify conditions associated with increased forest fire risk.
-
-It combines a BBC micro:bit, Python programming and environmental data to demonstrate how technology can support environmental monitoring.
-
-## Technologies Used
-
-- **Python**: Programming and data processing
-- **BBC micro:bit**: Environmental monitoring and hardware interaction
-- **HTML & CSS**: Project website
-- **CSV**: Environmental data storage
-
-## Repository Structure
-
-| Folder / File | Description |
+| File | Description |
 |---|---|
-| Python/ | Python model and environmental dataset |
-| Microbit/ | Micro:bit program (`.hex` file) |
-| Report/ | Project report, diagrams, code screenshots and demonstration video |
-| index.html | Project website |
+| index.html | HTML version of the project report |
+| Flowchart.png | Flowchart illustrating the project's logic and process |
+| Code.png | Screenshot of the project code |
+| Meet the Brief Video.mp4 | Video demonstration explaining how the project meets the Leaving Certificate Computer Science brief |
 
-## Project Demonstration
+## Project Website
 
-View the [project website](https://muwahhid-rauf.github.io/forest-fire-risk-detection/) to explore the project and watch the demonstration video.
+Visit the [Forest Fire Risk Detection website](https://muwahhid-rauf.github.io/forest-fire-risk-detection/) to view the project and its demonstration.
 
-## Project Background
+## Background
 
 Developed as part of the Leaving Certificate Computer Science course.
